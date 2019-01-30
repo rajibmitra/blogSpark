@@ -18,8 +18,8 @@ Or, set `dbms.security.auth_enabled=false` in `conf/neo4j-server.properties`.
 Then:
 
 ```
-git clone https://github.com/nicolewhite/neo4j-flask.git
-cd neo4j-flask
+ 
+cd blogSpark
 pip install virtualenv
 virtualenv venv
 source venv/bin/activate
